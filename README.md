@@ -2,4 +2,4 @@
 
 Всем привет, меня зовут Илья, я начинающий аналитик данных.
 
-[repositorySidorov](https://github.com/IISidorov97/repositorySidorov) можно найти некоторые из моих проектов, реализованные во время обучения и практики
+[repositorySidorov](https://github.com/IISidorov97/repositorySidorov) можно найти некоторые из моих проектов, реализованные во время обучения и практики.
